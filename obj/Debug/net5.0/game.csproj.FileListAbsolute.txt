@@ -1,0 +1,16 @@
+C:\Users\kiril\Source\Repos\game\bin\Debug\net5.0\game.exe
+C:\Users\kiril\Source\Repos\game\bin\Debug\net5.0\game.deps.json
+C:\Users\kiril\Source\Repos\game\bin\Debug\net5.0\game.runtimeconfig.json
+C:\Users\kiril\Source\Repos\game\bin\Debug\net5.0\game.runtimeconfig.dev.json
+C:\Users\kiril\Source\Repos\game\bin\Debug\net5.0\game.dll
+C:\Users\kiril\Source\Repos\game\bin\Debug\net5.0\ref\game.dll
+C:\Users\kiril\Source\Repos\game\bin\Debug\net5.0\game.pdb
+C:\Users\kiril\Source\Repos\game\obj\Debug\net5.0\game.csproj.AssemblyReference.cache
+C:\Users\kiril\Source\Repos\game\obj\Debug\net5.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Source\Repos\game\obj\Debug\net5.0\game.AssemblyInfoInputs.cache
+C:\Users\kiril\Source\Repos\game\obj\Debug\net5.0\game.AssemblyInfo.cs
+C:\Users\kiril\Source\Repos\game\obj\Debug\net5.0\game.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Source\Repos\game\obj\Debug\net5.0\game.dll
+C:\Users\kiril\Source\Repos\game\obj\Debug\net5.0\ref\game.dll
+C:\Users\kiril\Source\Repos\game\obj\Debug\net5.0\game.pdb
+C:\Users\kiril\Source\Repos\game\obj\Debug\net5.0\game.genruntimeconfig.cache
